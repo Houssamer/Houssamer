@@ -6,8 +6,7 @@
 
 <p align="center">
   <samp>
-    I am Oussama, love connecting with different people so if you want to say hi, I'll
-    be happy to meet you! :)
+    I am Houssame, I am a computer science engineering student. I love web development. 
     <br />
     If you have any questions or want to collaborate, please feel free to email me. ✌
     <br />
