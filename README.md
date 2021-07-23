@@ -1,9 +1,38 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+<p align="center">
+  <h2 align="center"><samp>Hi there 👋</samp></h2>
+</p>
+
+<p align="center">
+  <samp>
+    I am Oussama, love connecting with different people so if you want to say hi, I'll
+    be happy to meet you! :)
+    <br />
+    If you have any questions or want to collaborate, please feel free to email me. ✌
+    <br />
+  </samp>
+</p>
+
+<div align="center">
+
+![Oussama's github stats](https://github-readme-stats.vercel.app/api?username=Houssamer&hide=prs,issues,contribs&show_icons=true&theme=radical)
+<br/>
+<br/>
+![Oussama's github Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Houssamer&layout=compact&hide=Makefile)
+<p align="center">
+  <samp>
+    <br />
+    <br />
+    <a href="mailtoriadhoussame@gmail.com">Email</a>
+    -
+    <a href="https://www.linkedin.com/in/houssameriad">LinkedIn</a>
+  </samp>
+</p>
+
+</div>
 
 <!--
-**Houssamer/Houssamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
