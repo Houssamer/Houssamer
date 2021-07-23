@@ -15,10 +15,10 @@
 
 <div align="center">
 
-![Oussama's github stats](https://github-readme-stats.vercel.app/api?username=Houssamer&hide=prs,issues,contribs&show_icons=true&theme=radical)
+![Houssame's github stats](https://github-readme-stats.vercel.app/api?username=Houssamer&hide=prs,issues,contribs&show_icons=true&theme=radical)
 <br/>
 <br/>
-![Oussama's github Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Houssamer&layout=compact&hide=Makefile)
+![Houssame's github Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Houssamer&layout=compact&hide=Makefile)
 <p align="center">
   <samp>
     <br />
