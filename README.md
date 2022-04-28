@@ -6,7 +6,7 @@
 
 <p align="center">
   <samp>
-    I am Houssame, I am a computer science engineering student. I love web development. 
+    I am Houssame, I am a computer science engineering student. I love CyberSecurity and Ethical Hacking. 
     <br />
     If you have any questions or want to collaborate, please feel free to email me. ✌
     <br />
@@ -23,7 +23,7 @@
   <samp>
     <br />
     <br />
-    <a href="http://resume.riadhoussame.tk/">About Me</a>
+    <a href="https://riadhoussame.me/devFolio">About Me</a>
     -
     <a href="mailtoriadhoussame@gmail.com">Email</a>
     -
