@@ -25,7 +25,7 @@
     <br />
     <a href="https://riadhoussame.me/devFolio">About Me</a>
     -
-    <a href="mailtoriadhoussame@gmail.com">Email</a>
+    <a href="mailto=riadhoussame@gmail.com">Email</a>
     -
     <a href="https://www.linkedin.com/in/houssameriad">LinkedIn</a>
   </samp>
