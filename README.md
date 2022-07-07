@@ -22,8 +22,7 @@
 <br />
 <br />
 <br />
-<img src="https://tryhackme-badges.s3.amazonaws.com/DVRK.png" alt="TryHackMe">
-  
+
 <p align="center">
   <samp>
     <br />
